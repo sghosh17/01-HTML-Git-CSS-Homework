@@ -14,3 +14,8 @@ This project involves refactoring an existing code so that the code meets the ac
 
 * Updated the copyright from 2019 to 2021.
 
+
+### Link to the deployed application
+
+Click [here](https://sghosh17.github.io/01-HTML-Git-CSS-Homework/) to access the application.
+
